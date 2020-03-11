@@ -1,5 +1,9 @@
 Hi,my name is Taha
 Today we will talk about a story in the woods
-In the wood, there lived a small bee called Honey. He was curios about the
-world. He decided to go on a journey out of the wood. He then reached this small town with many bees and people. Honey meets this bee named alex and they become friends.
+In the wood, there lived a small bee called Honey. He was curios about the world.
+He decided to go on a journey out of the wood. He then reached this small town with many bees and people.
+Honey meets this bee named Alex and they become friends.
 One day, Honey said that he was interested in computer programming, so he asked Alex whether they can learn Java programming together.
+Upon Alex's insistence, they attended an introductory Java lecture and immediately fell in love with it.
+They further went on to do  a job in Java.
+Honey, Alex and Java lived happily ever after
